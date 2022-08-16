@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">SAARC COUNTRIES</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <string name="bd">Bangladesh</string>
+    <string name="in">India</string>
+    <string name="pak">Pakistan</string>
+    <string name="afghan">Afghanistan</string>
+    <string name="bhu">Bhutan</string>
+    <string name="mald">Maldives</string>
+    <string name="sri">Sri Lanka</string>
+    <string name="nep">Nepal</string>
+    <string name="bdText">
+        Bangladesh\n in brief
+        Destination Bangladesh, a Nations Online country profile of the independent nation in southern Asia.
+        Bangladesh came into being as the Pl uninterrupted sea beach in Asia (g. The Malnicherra Tea Estate,
+        the oldest tea \n\ngarden in the subcontinent. Ancient historical Panam City. Ilish fish and Muslin gauze
+        like Jamdani.
+         Bangladesh in brief
+        Destination Bangladesh, a Nations Online country profile of the independent nation in southern Asia.
+        Bangladesh came into being as the Pl uninterrupted sea beach in Asia (g. The Malnicherra Tea Estate,
+        the oldest tea garden in the subcontinent. Ancient historical Panam City. Ilish fish and Muslin gauze
+        like Jamdani \n\n
+         Bangladesh in brief
+        Destination Bangladesh, a Nations Online country profile of the independent nation in southern Asia.
+        Bangladesh came into being as the Pl uninterrupted sea beach in Asia (g. The Malnicherra Tea Estate,
+        the oldest tea garden in the subcontinent. Ancient historical Panam City. Ilish fish and Muslin gauze
+        like Jamdani
+    </string>
+    <string name="inText">
+       The Parliament of India (IAST: Bhāratīya Sansad) is the supreme legislative body of the Republic of India.
+        It is a bicameral legislature composed of the president of India and two houses: the Rajya Sabha (Council
+        of States) and the Lok Sabha (House of \nthe People). The president in his role as head of the legislature
+        has full powers to summon and prorogue either house of Parliament or to dissolve the Lok Sabha. The president
+        can exercise these powers only upon the advice of the prime minister and his Union Council of Ministers.
+        Those elected or nominated (by the president) \nto either house of Parliament are referred to as members of Parliament
+        (MPs). The members of parliament of the Lok Sabha are directly elected by the Indian public voting in single-member
+        districts and the members of parliament of the Rajya Sabha are elected by the members of all state legislative assemblies
+        by proportional representation. The Parliament\n has a sanctioned strength of 543 in the Lok Sabha and 245 in the Rajya Sabha
+        including 12 nominees from the expertise of different fields of literature, art, science, and social service.[7]
+        The Parliament meets at Sansad Bhavan in New Delhi.
+    </string>
+
+    <string name="pakText">
+        The Parliament of Pakistan (Urdu: مجلسِ شوریٰ پاکستان, Majlis-e-Shūrā Pākistān, lit. "Pakistan Advisory Council" or
+        "Pakistan Consultative Assembly") is the federal and \nsupreme legislative body of Pakistan. It is a bicameral federal
+        legislature that consists of the Senate as the upper house and the National Assembly as the lower house. According to
+        the constitution of the Islamic Republic of Pakistan, \nthe President of Pakistan is also a component of the Parliament.
+        The National Assembly is elected for a five-year term on the basis of adult franchise and one-man one-vote. The tenure
+        of a Member of the National Assembly is for the duration of the house, or sooner, in case the Member dies or resigns.
+        The tenure of the National Assembly also comes to an end \nif dissolved on the advice of the Prime Minister or by the
+        president in his discretion under the Constitution.The Parliament meets at the Parliament House building in Islamabad,
+        where debating chambers for both houses are present. Until 1960, \nthe Parliament House was located in Karachi .
+        The parliament building in Islamabad was inaugurated on 28 May 1986.
+    </string>
+
+</resources>

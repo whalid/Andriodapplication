@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#33FFF0"
+    android:gravity="center"
+    tools:openDrawer="start"
+    android:id="@+id/drawerId"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.navigation.NavigationView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/navigationId"
+        android:background="#13EEDD"
+        app:menu="@menu/navigation_menu_layout"
+        android:layout_gravity="start"
+        app:headerLayout="@layout/nav_header"
+        >
+
+    </com.google.android.material.navigation.NavigationView>
+
+
+
+      <ScrollView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+          <LinearLayout
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/buttonViewId"
+              >
+
+              <Button
+                  android:id="@+id/bdButtonId"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:text="@string/bd"
+                  android:textAllCaps="false"
+                  android:textSize="28sp"
+                  android:padding="5dp"
+                  android:textStyle="bold"
+                  android:layout_margin="20dp"
+                  android:layout_marginHorizontal="20dp"
+                  android:onClick="myFun"
+                  tools:ignore="UsingOnClickInXml"
+                  />
+
+              <Button
+                  android:id="@+id/inButtonId"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_margin="20dp"
+                  android:layout_marginHorizontal="20dp"
+                  android:onClick="myFun"
+                  android:padding="5dp"
+                  android:text="@string/in"
+                  android:textAllCaps="false"
+                  android:textSize="28sp"
+                  android:textStyle="bold"
+                  tools:ignore="UsingOnClickInXml" />
+
+              <Button
+                  android:id="@+id/pakButtonId"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:text="@string/pak"
+                  android:textAllCaps="false"
+                  android:textSize="28sp"
+                  android:padding="5dp"
+                  android:textStyle="bold"
+                  android:layout_margin="20dp"
+                  android:layout_marginHorizontal="20dp"
+                  android:onClick="myFun"
+                  tools:ignore="UsingOnClickInXml" />
+
+              <Button
+                  android:id="@+id/maldId"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:text="@string/mald"
+                  android:textAllCaps="false"
+                  android:textSize="28sp"
+                  android:padding="5dp"
+                  android:textStyle="bold"
+                  android:layout_margin="20dp"
+                  android:layout_marginHorizontal="20dp"
+                  android:onClick="myFun"
+                  tools:ignore="UsingOnClickInXml" />
+
+              <Button
+                  android:id="@+id/bhuId"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:text="@string/bhu"
+                  android:textAllCaps="false"
+                  android:textSize="28sp"
+                  android:padding="5dp"
+                  android:textStyle="bold"
+                  android:layout_margin="20dp"
+                  android:layout_marginHorizontal="20dp"
+                  android:onClick="myFun"
+                  tools:ignore="UsingOnClickInXml" />
+
+              <Button
+                  android:id="@+id/nepId"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:text="@string/nep"
+                  android:textAllCaps="false"
+                  android:textSize="28sp"
+                  android:padding="5dp"
+                  android:textStyle="bold"
+                  android:layout_margin="20dp"
+                  android:layout_marginHorizontal="20dp"
+                  android:onClick="myFun"
+                  tools:ignore="UsingOnClickInXml" />
+
+              <Button
+                  android:id="@+id/sriId"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:text="@string/sri"
+                  android:textAllCaps="false"
+                  android:textSize="28sp"
+                  android:padding="5dp"
+                  android:textStyle="bold"
+                  android:layout_margin="20dp"
+                  android:layout_marginHorizontal="20dp"
+                  android:onClick="myFun"
+                  tools:ignore="UsingOnClickInXml" />
+
+              <Button
+                  android:id="@+id/afghanId"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:text="@string/afghan"
+                  android:textAllCaps="false"
+                  android:textSize="28sp"
+                  android:padding="5dp"
+                  android:textStyle="bold"
+                  android:layout_margin="20dp"
+                  android:layout_marginHorizontal="20dp"
+                  android:onClick="myFun"
+                  tools:ignore="UsingOnClickInXml" />
+          </LinearLayout>
+      </ScrollView>
+
+
+</androidx.drawerlayout.widget.DrawerLayout>
